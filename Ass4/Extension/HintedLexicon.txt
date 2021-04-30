@@ -1,0 +1,4 @@
+CANDY,Sweet
+EVEREST,Mountain
+HOUSE,Building
+GEORGIA,Country
